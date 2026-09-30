@@ -1,6 +1,6 @@
 # Literature Search — Claude Skill
 
-학생의 주제범위·체계적·통합적 문헌고찰을 위한 문헌검색을 Claude에서 5단계로 안내하는 스킬입니다. 관심 주제로 시작해 연구질문과 검색전략을 정리하고, 실제 검색 결과를 점검한 뒤 검색 과정과 산출물을 PDF로 저장합니다.
+문헌고찰을 위한 문헌검색을 Claude에서 단계별로 안내하는 학생용 스킬입니다. 연구질문과 검색전략을 정리하고, 검색 결과를 점검한 뒤 PDF 보고서로 저장합니다.
 
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
 ![Student Version 2.4](https://img.shields.io/badge/Student-v2.4-blue.svg)
@@ -45,15 +45,27 @@
 
 별도의 오픈소스 라이선스는 지정하지 않았습니다. 재배포·수정본 배포 등 이용 허락이 필요한 경우 저장소의 Issues에서 문의해 주세요.
 
+## 제작자
+
+**최정인 (Jeongin Choe)**
+
+[nncj91@snu.ac.kr](mailto:nncj91@snu.ac.kr)
+
+## 지도교수
+
+**우경미 (Kyungmi Woo)** — 서울대학교 간호대학 부교수
+
+ANDA Lab: https://andalab.snu.ac.kr/
+
 ## 감사의 말
 
-이 스킬은 AI 도구를 활용하여 개발되었습니다.
+이 도구는 AI 도구(Claude, Anthropic)를 활용하여 개발되었습니다. 도구의 설계와 개발은 최정인이 수행하였으며, 박소연은 사용 과정을 검토하고 개선 의견을 제공하였습니다.
 
 ---
 
 # Literature Search — Claude Skill (English)
 
-A five-step Claude skill that guides students through literature searches for scoping, systematic, and integrative reviews. Start with a topic, develop a research question and search strategy, review actual search results, and save the process and outputs as PDF reports.
+A Claude skill that guides students through literature searches step by step. Develop a research question and search strategy, review search results, and save PDF reports.
 
 **[Download SKILL.md](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/SKILL.md)** · [View the file](SKILL.md)
 
@@ -95,6 +107,18 @@ This repository provides the **`.md` file attached directly to the conversation*
 
 No separate open-source license has been specified. Please use this repository's Issues for permission requests such as redistribution or distribution of modified versions.
 
+## Author
+
+**Jeongin Choe (최정인)**
+
+[nncj91@snu.ac.kr](mailto:nncj91@snu.ac.kr)
+
+## Advisor
+
+**Kyungmi Woo (우경미)** — Associate Professor, College of Nursing, Seoul National University
+
+ANDA Lab: https://andalab.snu.ac.kr/
+
 ## Acknowledgements
 
-This skill was developed with the assistance of AI tools.
+This tool was developed with the assistance of AI tools (Claude, Anthropic). Jeongin Choe designed and developed the tool. Soyeon Park reviewed the usage process and provided suggestions for improvement.
