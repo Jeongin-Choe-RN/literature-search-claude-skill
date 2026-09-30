@@ -59,7 +59,7 @@ ANDA Lab: https://andalab.snu.ac.kr/
 
 ## 감사의 말
 
-이 도구는 AI 도구(Claude, Anthropic)를 활용하여 개발되었습니다. 도구의 설계와 개발은 최정인이 수행하였으며, 박소연은 사용 과정을 검토하고 개선 의견을 제공하였습니다.
+이 도구는 AI 도구(Claude, Anthropic)를 활용하여 개발되었습니다. 사용 과정을 세심하게 검토하고 개선 의견을 주신 박소연 선생님(서울대학교 간호대학 박사과정)께 감사드립니다.
 
 ---
 
@@ -121,4 +121,4 @@ ANDA Lab: https://andalab.snu.ac.kr/
 
 ## Acknowledgements
 
-This tool was developed with the assistance of AI tools (Claude, Anthropic). Jeongin Choe designed and developed the tool. Soyeon Park reviewed the usage process and provided suggestions for improvement.
+This tool was developed with the assistance of AI tools (Claude, Anthropic). We thank Soyeon Park, a doctoral student at the College of Nursing, Seoul National University, for carefully reviewing the usage process and providing suggestions for improvement.
