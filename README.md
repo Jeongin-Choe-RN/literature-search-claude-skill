@@ -55,7 +55,7 @@
 
 **우경미 (Kyungmi Woo)** — 서울대학교 간호대학 부교수
 
-ANDA Lab: https://andalab.snu.ac.kr/
+ANDA Lab: [https://andalab.snu.ac.kr/](https://andalab.snu.ac.kr/)
 
 ## 감사의 말
 
