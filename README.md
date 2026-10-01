@@ -5,7 +5,7 @@
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
 ![Student Version 2.4](https://img.shields.io/badge/Student-v2.4-blue.svg)
 
-**[literature-search-student.skill 다운로드](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)**
+**[literature-search-student.skill 다운로드](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)** · [파일 내용 보기](docs/literature-search-student.md)
 
 ## 주요 기능
 
@@ -65,7 +65,7 @@ ANDA Lab: [https://andalab.snu.ac.kr/](https://andalab.snu.ac.kr/)
 
 A Claude skill that guides students through literature searches step by step. Develop a research question and search strategy, review search results, and save PDF reports.
 
-**[Download literature-search-student.skill](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)**
+**[Download literature-search-student.skill](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)** · [View contents](docs/literature-search-student.md)
 
 ## Features
 
