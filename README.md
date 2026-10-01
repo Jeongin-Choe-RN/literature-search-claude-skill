@@ -5,7 +5,7 @@
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
 ![Student Version 2.4](https://img.shields.io/badge/Student-v2.4-blue.svg)
 
-**[literature-search-student.skill 다운로드](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)** · [파일 내용 보기](literature-search-student.md)
+**[literature-search-student.skill 다운로드](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)**
 
 ## 주요 기능
 
@@ -30,8 +30,6 @@
    - **PubMed 연결:** Claude에서 PubMed 커넥터를 별도로 연결·활성화한 뒤 검색을 요청합니다.
 6. 표본 최대 10건을 먼저 판단하고, AI의 검토와 비교해 필요한 부분을 수정합니다.
 7. 생성된 PDF 보고서를 확인하고 저장합니다.
-
-기본 다운로드는 **설치용 `.skill` 파일**입니다. 영상에서 사용하는 대화창 첨부용 [`.md` 파일](literature-search-student.md)과 지침 내용은 동일합니다.
 
 ## 사용 시 유의사항
 
@@ -67,7 +65,7 @@ ANDA Lab: [https://andalab.snu.ac.kr/](https://andalab.snu.ac.kr/)
 
 A Claude skill that guides students through literature searches step by step. Develop a research question and search strategy, review search results, and save PDF reports.
 
-**[Download literature-search-student.skill](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)** · [View the file](literature-search-student.md)
+**[Download literature-search-student.skill](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)**
 
 ## Features
 
@@ -92,8 +90,6 @@ A Claude skill that guides students through literature searches step by step. De
    - **With a PubMed connector:** separately connect and enable the PubMed connector in Claude, then request a search.
 6. Judge up to 10 sample records first, compare your judgments with AI feedback, and revise as needed.
 7. Review and save the generated PDF reports.
-
-The default download is the **installable `.skill` package**. It contains the same instructions as the [`.md` file](literature-search-student.md) attached directly to the conversation in the teaching videos.
 
 ## Usage Notes
 
