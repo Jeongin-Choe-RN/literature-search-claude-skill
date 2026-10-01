@@ -5,7 +5,6 @@
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
 ![Student Version 2.4](https://img.shields.io/badge/Student-v2.4-blue.svg)
 
-**[SKILL.md 다운로드](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/SKILL.md)** ·
 
 ## 주요 기능
 
