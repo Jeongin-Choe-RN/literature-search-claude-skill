@@ -5,7 +5,7 @@
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
 ![Student Version 2.4](https://img.shields.io/badge/Student-v2.4-blue.svg)
 
-**[literature-search-student.md 다운로드](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/releases/download/v2.4/literature-search-student.md)** · [파일 내용 보기](literature-search-student.md)
+**[literature-search-student.skill 다운로드](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)** · [파일 내용 보기](literature-search-student.md)
 
 ## 주요 기능
 
@@ -18,11 +18,11 @@
 
 ## 다운로드 및 사용 방법
 
-1. 위의 **literature-search-student.md 다운로드** 링크로 파일을 저장합니다.
-2. Claude의 새 대화에서 다운로드한 `literature-search-student.md`를 **파일로 첨부**합니다.
-3. 관심 주제와 함께 다음과 같이 입력합니다.
+1. 위의 **literature-search-student.skill 다운로드** 링크로 파일을 저장합니다.
+2. Claude의 **스킬 관리 → 스킬 업로드**에서 다운로드한 `literature-search-student.skill`을 업로드하고 활성화합니다.
+3. 새 대화에서 관심 주제와 함께 다음과 같이 입력합니다.
 
-   > 첨부한 스킬에 따라 문헌검색을 진행해 주세요. 관심 주제는 간호대학생의 수면과 스트레스입니다.
+   > literature-search-student 스킬로 문헌검색을 진행해 주세요. 관심 주제는 간호대학생의 수면과 스트레스입니다.
 
 4. 연구질문·고찰 유형·DB를 확인하고, 검색어와 검색식 초안을 검토합니다.
 5. 아래 두 경로 중 사용할 방법으로 검색합니다.
@@ -31,7 +31,7 @@
 6. 표본 최대 10건을 먼저 판단하고, AI의 검토와 비교해 필요한 부분을 수정합니다.
 7. 생성된 PDF 보고서를 확인하고 저장합니다.
 
-이 저장소는 영상에서 사용하는 **대화창 파일 첨부 방식의 `.md` 파일**을 제공합니다.
+기본 다운로드는 **설치용 `.skill` 파일**입니다. 영상에서 사용하는 대화창 첨부용 [`.md` 파일](literature-search-student.md)과 지침 내용은 동일합니다.
 
 ## 사용 시 유의사항
 
@@ -67,7 +67,7 @@ ANDA Lab: [https://andalab.snu.ac.kr/](https://andalab.snu.ac.kr/)
 
 A Claude skill that guides students through literature searches step by step. Develop a research question and search strategy, review search results, and save PDF reports.
 
-**[Download literature-search-student.md](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/releases/download/v2.4/literature-search-student.md)** · [View the file](literature-search-student.md)
+**[Download literature-search-student.skill](https://github.com/Jeongin-Choe-RN/literature-search-claude-skill/raw/refs/heads/main/literature-search-student.skill)** · [View the file](literature-search-student.md)
 
 ## Features
 
@@ -80,11 +80,11 @@ A Claude skill that guides students through literature searches step by step. De
 
 ## Download & Usage
 
-1. Download `literature-search-student.md` using the link above.
-2. Start a new Claude conversation and **attach the downloaded file**.
-3. Enter your topic and a request such as:
+1. Download `literature-search-student.skill` using the link above.
+2. In Claude’s skill management area, **upload the downloaded skill** and enable it.
+3. Start a new conversation and enter your topic with a request such as:
 
-   > Please follow the attached skill to guide my literature search. My topic is sleep and stress among nursing students.
+   > Please use the literature-search-student skill to guide my literature search. My topic is sleep and stress among nursing students.
 
 4. Confirm the research question, review type, and databases, then review the proposed terms and query.
 5. Choose a search route:
@@ -93,7 +93,7 @@ A Claude skill that guides students through literature searches step by step. De
 6. Judge up to 10 sample records first, compare your judgments with AI feedback, and revise as needed.
 7. Review and save the generated PDF reports.
 
-This repository provides the **`.md` file attached directly to the conversation**, as demonstrated in the teaching videos.
+The default download is the **installable `.skill` package**. It contains the same instructions as the [`.md` file](literature-search-student.md) attached directly to the conversation in the teaching videos.
 
 ## Usage Notes
 
